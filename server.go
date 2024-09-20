@@ -5,7 +5,7 @@ import (
 	"log"
 	"net"
 
-	"Repositories/gRPC-Go/chat" //import the chat file to be used here in server.go
+	"github.com/JonesKisaka/gRPC-Go/chat" //import the chat file to be used here in server.go
 
 	"google.golang.org/grpc"
 )
