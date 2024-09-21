@@ -1,12 +1,10 @@
 package main
 
 import (
-	//"NAMESPACE/chat"
 	"log"
 	"net"
 
 	"github.com/JonesKisaka/gRPC-Go/chat" //import the chat file to be used here in server.go
-
 	"google.golang.org/grpc"
 )
 
